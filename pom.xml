@@ -89,28 +89,6 @@
 	</dependencies>	
 	
 	<build>
-    	<!-- <plugins>
-      		<plugin>
-        		<artifactId>maven-compiler-plugin</artifactId>
-        		<configuration>
-          			<source>1.6</source>
-          			<target>1.6</target>
-        		</configuration>
-      		</plugin>
-      		<plugin>
-        		<artifactId>maven-eclipse-plugin</artifactId>
-        		<version>2.5.1</version>
-        		<configuration>
-          			<additionalProjectNatures>
-            			<projectNature>org.maven.ide.eclipse.maven2Nature</projectNature>
-          			</additionalProjectNatures>
-          			<additionalBuildCommands>
-            			<buildCommand>org.maven.ide.eclipse.maven2Builder</buildCommand>
-          			</additionalBuildCommands>
-        		</configuration>
-      		</plugin>
-    	</plugins> -->
-    	
     	<resources>
       		<resource>
         		<directory>src/main/java</directory>

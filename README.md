@@ -296,6 +296,7 @@ Has GWT-MouseManager been helpful to you?  If you'd like to give back, here are 
 #### To Do
 
 - Test every browser. Please report bugs by specifying your browser details (brand, version, layout engine, etc...).
+- Add more reports in the build process using maven plugins. Code coverage, Static code analysis, cyclomatic complexity, etc...
 
 #### To Look Into
 
