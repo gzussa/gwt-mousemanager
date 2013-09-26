@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='mousemanager'>
+  <inherits name="com.google.gwt.user.User" /> 
+  <inherits name="com.google.gwt.event.dom.DomEvent" /> 
+  <source path='client'/>
+  
+</module>
