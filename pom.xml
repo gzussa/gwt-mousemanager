@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.gz.gwt</groupId>
+  <groupId>org.gz.gwt.mousemanager</groupId>
   <artifactId>mousemanager</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -89,11 +89,29 @@
 	</dependencies>	
 	
 	<build>
+		<pluginManagement>
+          <plugins>
+              <plugin>
+                  <artifactId>maven-compiler-plugin</artifactId>
+                  <configuration>
+                      <source>1.6</source>
+                      <target>1.6</target>
+                      <compilerArgument></compilerArgument>
+                  </configuration>
+              </plugin>
+          </plugins>
+		</pluginManagement>
+		
     	<resources>
       		<resource>
         		<directory>src/main/java</directory>
         		<includes>
           			<include>**/client/**</include>
+        		</includes>
+      		</resource>
+      		<resource>
+        		<directory>src/main/resources</directory>
+        		<includes>
           			<include>**/*.gwt.xml</include>
         		</includes>
       		</resource>
