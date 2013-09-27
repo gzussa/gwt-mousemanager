@@ -1,13 +1,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.gz.gwt.mousemanager</groupId>
+  <groupId>org.gz.gwt</groupId>
   <artifactId>mousemanager</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>GWT-MouseManager</name>
   <description>Simple Cross Browser Mouse Event Handler Manager</description>
+  
   <properties>
-
 		<!-- Generic properties -->
 		<java.version>1.7</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,6 @@
     	<gwt.version>2.3.0</gwt.version>
 		<!-- Test -->
 		<junit.version>4.11</junit.version>
-
 	</properties>
 	
 	<licenses>
