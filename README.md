@@ -268,7 +268,7 @@ So far, I have only analyzed the eventGetButton method implementation. However, 
 
 #### Introduction
 
-Based on Jan's work <http://unixpapa.com/js/mouse.html>, the first release of GET-MouseManager only supports the correct browser behaviors marked in Green in the article.
+Based on Jan's work <http://unixpapa.com/js/mouse.html>, the first release of GWT-MouseManager only supports the correct browser behaviors marked in Green in the article.
 
 *“correct” Click Event Sequences:*
 
