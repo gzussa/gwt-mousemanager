@@ -29,7 +29,7 @@ Your logic behind your Double Click listener will be executed, but it will also 
 
 ### Example
 
-Pointless? Yes. Easy-to-understand? I hope so! Fun? Probably just as much as !
+Pointless? Yes. Easy-to-understand? I hope so! Fun? Probably just as much as Farmville!
 
 [Give it a whirl here.](http://gwt-mousemanager.appspot.com/)
 
@@ -75,9 +75,6 @@ The simplest way to interact with GWT-MouseManager is through the `Surface` Obje
 - Verify that you have added `gwt-mousemanager.jar` to your build path (You can use Maven dependency).
 
 ```java
- import com.gz.gwt.mouse.client.MouseHandlerManager;
- import com.gz.gwt.mouse.client.event.ClickEvent;
- import com.gz.gwt.mouse.client.event.ClickHandler;
  /** 
   * Entry point classes define onModuleLoad().
   */
@@ -378,7 +375,6 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gzussa/gwt-mousemanager/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
