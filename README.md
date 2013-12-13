@@ -50,7 +50,7 @@ Finally you can export your project as a executable jar so you can use it. You c
 
 ### Hello World
 
-The simplest way to interact with GWT-MouseManager is through the `Surface` Object. `Surface `supports many mouse event handlers. It is also a widget, which means it can be added to any panel. In the following demonstration, we extended `Surface` with `AdvSurface`, which implements the `HasContextMenuHandlers` interface.
+The simplest way to interact with GWT-MouseManager is through the `Surface` Object. `Surface` supports many mouse event handlers. It is also a widget, which means it can be added to any panel. In the following demonstration, we extended `Surface` with `AdvSurface`, which implements the `HasContextMenuHandlers` interface.
 
 ```java
  /** 
