@@ -33,7 +33,7 @@ Pointless? Yes. Easy-to-understand? I hope so! Fun? Probably just as much as Far
 
 [Give it a whirl here.](http://gwt-mousemanager.appspot.com/)
 
-Source code available in the following Github Repo [GWT-MouseManager-Demo](https://github.com/gzussa/gwt-mousemanager-demo).
+Source code available in the [demo/ folder](https://github.com/gzussa/gwt-mousemanager/tree/master/demo).
 
 ## Getting Started
 
