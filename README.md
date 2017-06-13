@@ -264,7 +264,7 @@ So far, I have only analyzed the eventGetButton method implementation. However, 
 
 ## Current Implementation
 
-###Summary Implementation Details Version 1
+### Summary Implementation Details Version 1
 
 #### Introduction
 
@@ -353,7 +353,7 @@ Any feedback/question/request please visit the [discussion group](http://groups.
 
 If you are using the GWT-MouseManager library in your project, I would greatly appreciate it if you can send me a link to your project so I can get an idea on how it is being used and what kind of features/changes would be good to have in the future.
 
-##License
+## License
 
 The MIT License (MIT)
 
@@ -375,7 +375,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gzussa/gwt-mousemanager/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
