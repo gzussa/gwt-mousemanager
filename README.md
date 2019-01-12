@@ -27,12 +27,6 @@ Also, these sequences (even in modern browsers) are not very convenient. In some
 
 Your logic behind your Double Click listener will be executed, but it will also execute the logic behind your click, mouse up and mouse down listeners twice.
 
-### Example
-
-Pointless? Yes. Easy-to-understand? I hope so! Fun? Probably just as much as Farmville!
-
-[Give it a whirl here.](http://gwt-mousemanager.appspot.com/)
-
 Source code available in the [demo/ folder](https://github.com/gzussa/gwt-mousemanager/tree/master/demo).
 
 ## Getting Started
